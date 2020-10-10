@@ -1,0 +1,27 @@
+Manufacturer,Vehicle,Payload to GEO (kg),Payload to GTO (kg),Payload to TLI (kg),Payload to TMI (kg)
+ULA,Atlas V 411,1935.0,5750.0,4090.0,
+ULA,Atlas V 421,2480.0,6890.0,4830.0,
+ULA,Atlas V 431,2820.0,7700.0,5430.0,
+ULA,Atlas V 521,2540.0,6480.0,4360.0,
+ULA,Atlas V 531,3080.0,7450.0,5120.0,
+ULA,Atlas V 541,3530.0,8290.0,5800.0,
+ULA,Atlas V 551,3850.0,8900.0,6330.0,
+ULA,"Delta IV M+(5,2)",1840.0,5080.0,,
+ULA,"Delta IV M+(5,4)",2710.0,6890.0,,
+ULA,Delta IV Heavy,6580.0,14210.0,11290.0,8000.0
+ULA,Vulcan Centaur 502*,7200.0,2900.0,2300.0,
+ULA,Vulcan Centaur 522*,2600.0,7600.0,6300.0,
+ULA,Vulcan Centaur 542*,4800.0,10800.0,9000.0,
+ULA,Vulcan Centaur 562*,6500.0,13600.0,11300.0,
+ULA,Vulcan Centaur Heavy*,7200.0,14400.0,12100.0,
+ULA,Atlas V 401,,4750.0,3160.0,
+ULA,Atlas V 501,,3780.0,2210.0,
+ULA,Atlas V 511,,5250.0,3400.0,
+SpaceX,Falcon 9,,8300.0,,4020.0
+SpaceX,Falcon Heavy,,26700.0,,16800.0
+SpaceX,Starship*,,21000.0,,
+Northrop Grumman,Minotaur V,,670.0,,
+Blue Origin,New Glenn*,,13600.0,,
+NASA,Space Launch System Block 1*,,,26000.0,
+NASA,Space Launch System Block 1b*,,,41000.0,
+NASA,Space Launch System Block 2*,,,45000.0,
